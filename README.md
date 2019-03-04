@@ -4,7 +4,7 @@
 2. What five objects are created in the main?
 3 dog objects
 1 comparator
-1 collection
+1 arraylist
 
 3. Can you spot the comparator constructor call? Where is the class definition for the comparator?
 Yes, it's in the override.
